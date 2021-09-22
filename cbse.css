@@ -1,3 +1,4 @@
+   
 *
 {
 	margin: 0px;
@@ -26,11 +27,10 @@ h1{
 h2{
 	text-align: center;
 	padding-top: -5px;
-	
 	color: blue;
 }
 p{
-	padding-left: 550px;
+	text-align:center;
 	font-size: 30px;
 	padding-top: 20px;
 	font-display: left;
@@ -41,10 +41,11 @@ p{
 }
 .summ ul li a {
 	text-decoration:none;
-	padding-left: 800px;
+	text-align:center;
 	color: blue;
 }
 .summ ul li {
+	text-align:center;
 	font-size: 35px;
 }
 a:hover{
@@ -53,19 +54,20 @@ a:hover{
 	position: absolute;
 }
 abc{
+	
 	color: red;
+	padding-left:690px;
 	margin-top: 20px;
-	padding-left: 775px;
 	font-size: 35px;
 	
 }
 h4{
 	margin-top:30px;
-	padding-left:712px;
+	text-align:center;
 	font-size: 30px;
 	text-decoration: underline;
 }
 .bottom{
-	padding-left: 665px;
+	text-align:center;
 	font-size: 25px;
 }
