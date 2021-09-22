@@ -53,13 +53,11 @@ a:hover{
 	font-family: cursive;
 	position: absolute;
 }
-abc{
-	
+.abc{
 	color: red;
-	padding-left:690px;
 	margin-top: 20px;
 	font-size: 35px;
-	
+	text-align:center;
 }
 h4{
 	margin-top:30px;
